@@ -4,7 +4,7 @@
 
 # **WebScraping**
 
-**To access the notebooks [click here](https://github.com/Raoni-Silva/bookWebscraping/blob/main/Tea%20O'Clock%20webscraping%20with%20BeautifulSoup.ipynb).**
+**To access the notebook [click here](https://github.com/Raoni-Silva/bookWebscraping/blob/main/Tea%20O'Clock%20webscraping%20with%20BeautifulSoup.ipynb).**
 
 ## **1. Business Context**
 
