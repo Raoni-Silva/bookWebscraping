@@ -4,6 +4,8 @@
 
 # **WebScraping**
 
+**To access the notebooks [click here](https://github.com/Raoni-Silva/bookWebscraping/blob/main/Tea%20O'Clock%20webscraping%20with%20BeautifulSoup.ipynb).**
+
 ## **1. Business Context**
 
 The Tea O'Clock is a tea shop in London that wants to became a book club where people come to have a quiet and pleasant time.
@@ -76,5 +78,4 @@ The data will be gathered from https://books.toscrape.com, that is a website mad
 - Change the code in order to have more flexibility to choose the categories needed.
 - Create a streamlit for a better usage of the data.
 - Use streamlit as a catalogue of the Tea O'Clock book stock.
-
 
