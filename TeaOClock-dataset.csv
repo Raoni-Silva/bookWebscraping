@@ -1,0 +1,58 @@
+,book_title,book_price,book_rate,book_availability,book_category,scrap_time
+0,The Secret Garden,£15.08,4,In stock,Classics,2022-02-21 19:24:32
+1,The Metamorphosis,£28.58,1,In stock,Classics,2022-02-21 19:24:32
+2,The Pilgrim's Progress,£50.26,2,In stock,Classics,2022-02-21 19:24:32
+3,The Hound of the ...,£14.82,2,In stock,Classics,2022-02-21 19:24:32
+4,Little Women (Little Women ...,£28.07,4,In stock,Classics,2022-02-21 19:24:32
+5,Gone with the Wind,£32.49,3,In stock,Classics,2022-02-21 19:24:32
+6,Candide,£58.63,3,In stock,Classics,2022-02-21 19:24:32
+7,Animal Farm,£57.22,3,In stock,Classics,2022-02-21 19:24:32
+8,Wuthering Heights,£17.73,3,In stock,Classics,2022-02-21 19:24:32
+9,The Picture of Dorian ...,£29.70,2,In stock,Classics,2022-02-21 19:24:32
+10,The Complete Stories and ...,£26.78,4,In stock,Classics,2022-02-21 19:24:32
+11,Beowulf,£38.35,2,In stock,Classics,2022-02-21 19:24:32
+12,And Then There Were ...,£35.01,2,In stock,Classics,2022-02-21 19:24:32
+13,The Story of Hong ...,£43.19,4,In stock,Classics,2022-02-21 19:24:32
+14,The Little Prince,£45.42,2,In stock,Classics,2022-02-21 19:24:32
+15,Sense and Sensibility,£37.46,1,In stock,Classics,2022-02-21 19:24:32
+16,Of Mice and Men,£47.11,2,In stock,Classics,2022-02-21 19:24:32
+17,Emma,£32.93,2,In stock,Classics,2022-02-21 19:24:32
+18,Alice in Wonderland (Alice's ...,£55.53,1,In stock,Classics,2022-02-21 19:24:32
+0,Mesaerion: The Best Science ...,£37.59,1,In stock,Science Fiction,2022-02-21 19:24:33
+1,Join,£35.67,5,In stock,Science Fiction,2022-02-21 19:24:33
+2,William Shakespeare's Star Wars: ...,£43.30,4,In stock,Science Fiction,2022-02-21 19:24:33
+3,The Project,£10.65,1,In stock,Science Fiction,2022-02-21 19:24:33
+4,Soft Apocalypse,£26.12,2,In stock,Science Fiction,2022-02-21 19:24:33
+5,Sleeping Giants (Themis Files ...,£48.74,1,In stock,Science Fiction,2022-02-21 19:24:33
+6,Arena,£21.36,4,In stock,Science Fiction,2022-02-21 19:24:33
+7,Foundation (Foundation (Publication Order) ...,£32.42,1,In stock,Science Fiction,2022-02-21 19:24:33
+8,The Restaurant at the ...,£10.92,1,In stock,Science Fiction,2022-02-21 19:24:33
+9,Ready Player One,£19.07,4,In stock,Science Fiction,2022-02-21 19:24:33
+10,"Life, the Universe and ...",£33.26,2,In stock,Science Fiction,2022-02-21 19:24:33
+11,Dune (Dune #1),£54.86,1,In stock,Science Fiction,2022-02-21 19:24:33
+12,Do Androids Dream of ...,£51.48,1,In stock,Science Fiction,2022-02-21 19:24:33
+13,Three Wishes (River of ...,£44.18,2,In stock,Science Fiction,2022-02-21 19:24:33
+14,The Last Girl (The ...,£36.26,2,In stock,Science Fiction,2022-02-21 19:24:33
+15,Having the Barbarian's Baby ...,£34.96,4,In stock,Science Fiction,2022-02-21 19:24:33
+0,The Long Haul (Diary ...,£44.07,1,In stock,Humor,2022-02-21 19:24:34
+1,Old School (Diary of ...,£11.83,5,In stock,Humor,2022-02-21 19:24:34
+2,I Know What I'm ...,£25.98,4,In stock,Humor,2022-02-21 19:24:34
+3,Hyperbole and a Half: ...,£14.75,5,In stock,Humor,2022-02-21 19:24:34
+4,Dress Your Family in ...,£43.68,3,In stock,Humor,2022-02-21 19:24:34
+5,Toddlers Are A**holes: It's ...,£25.55,1,In stock,Humor,2022-02-21 19:24:34
+6,When You Are Engulfed ...,£30.89,5,In stock,Humor,2022-02-21 19:24:34
+7,Naked,£31.69,3,In stock,Humor,2022-02-21 19:24:34
+8,Lamb: The Gospel According ...,£55.50,5,In stock,Humor,2022-02-21 19:24:34
+9,Holidays on Ice,£51.07,2,In stock,Humor,2022-02-21 19:24:34
+0,The Dirty Little Secrets ...,£33.34,4,In stock,Business,2022-02-21 19:24:35
+1,The Third Wave: An ...,£12.61,5,In stock,Business,2022-02-21 19:24:35
+2,The 10% Entrepreneur: Live ...,£27.55,3,In stock,Business,2022-02-21 19:24:35
+3,Shoe Dog: A Memoir ...,£23.99,2,In stock,Business,2022-02-21 19:24:35
+4,Made to Stick: Why ...,£38.85,5,In stock,Business,2022-02-21 19:24:35
+5,Quench Your Own Thirst: ...,£43.14,1,In stock,Business,2022-02-21 19:24:35
+6,The Art of Startup ...,£21.00,3,In stock,Business,2022-02-21 19:24:35
+7,Born for This: How ...,£21.59,5,In stock,Business,2022-02-21 19:24:35
+8,The E-Myth Revisited: Why ...,£36.91,1,In stock,Business,2022-02-21 19:24:35
+9,"Rich Dad, Poor Dad",£51.74,1,In stock,Business,2022-02-21 19:24:35
+10,The Lean Startup: How ...,£33.92,3,In stock,Business,2022-02-21 19:24:35
+11,Rework,£44.88,2,In stock,Business,2022-02-21 19:24:35
