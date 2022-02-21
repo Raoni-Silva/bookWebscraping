@@ -6,28 +6,36 @@
 
 ## **1. Business Context**
 
-The Tea O'Clock is a tea shop in Montreal that wants to became a book club where people come to have a quiet and pleasant time.
+The Tea O'Clock is a tea shop in London that wants to became a book club where people come to have a quiet and pleasant time.
 
 Tea O'Clock want to have a good but small selection of books and after a market research they've decided to keep only books from the following category:
 
-**- Classics**
-**- Science Fiction**
-**- Humor**
-**- Business**
+**- Classics** <br>
+**- Science Fiction** <br>
+**- Humor** <br>
+**- Business** <br>
+
+In order to decide which books to have on their store I've been asked to build a dataframe including the following infos:
+
+**- Book name**
+**- Book price (in sterling pounds)**
+**- Customer rating**
+**- Stock availability**
+
+## **2. Business Context**
+
+The output will be a csv file containing the following informations:
+
+|column names|description|
+|-----|-----|
+|book_title|The title of the book|
+|book_price|The price of the book in pounds|
+|book_rate|The book customer rating from 1 to 5|
+|book_availability|Shows if the book is available in stock|
+|book_category|The category of the book|
+|scrap_time|The date and time the scrap was done|
 
 
 
-Coffee&Cookies picks only hard-to-find and greatly-rated books. The company packs them with a unique reading guide and a wellness set including exotic varieties of coffee and specialty candies.
 
-Their market research showed that the customers keeps their subscription for longer when they receive a mix of casual and business books, from the following categories:
 
-Classics
-Science Fiction
-Humor
-Business
-Coffee&Cookies needs to decide what books to deliver next to their subscribers, and required me search for a dataset including the following info:
-
-Book name
-Price in GBP
-Customer Rating
-Stock availability
