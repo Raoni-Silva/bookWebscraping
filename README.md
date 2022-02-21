@@ -50,8 +50,8 @@ The libraries used in the process:
 
 **- BeautifulSoup** <br>
 **- Pandas** <br>
-**- Requuests** <br>
-**- datetime** <br>
+**- Requests** <br>
+**- Datetime** <br>
 **- Regex** <br>
 
 ### 2.3 Steps
@@ -67,6 +67,14 @@ The libraries used in the process:
 **STEP 05:** Export the data into a csv file and send it to the Tea O'Clock shop.
 
 
+### 2.4 Source:
 
+The data will be gathered from https://books.toscrape.com, that is a website made for webscraping training for free.
+
+## 3. Next Steps
+
+- Change the code in order to have more flexibility to choose the categories needed.
+- Create a streamlit for a better usage of the data.
+- Use streamlit as a catalogue of the Tea O'Clock book stock.
 
 
