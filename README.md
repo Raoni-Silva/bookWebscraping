@@ -10,19 +10,21 @@ The Tea O'Clock is a tea shop in London that wants to became a book club where p
 
 Tea O'Clock want to have a good but small selection of books and after a market research they've decided to keep only books from the following category:
 
-**- Classics** <br>
-**- Science Fiction** <br>
-**- Humor** <br>
-**- Business** <br>
+  **- Classics** <br>
+  **- Science Fiction** <br>
+  **- Humor** <br>
+  **- Business** <br>
 
 In order to decide which books to have on their store I've been asked to build a dataframe including the following infos:
 
-**- Book name**
-**- Book price (in sterling pounds)**
-**- Customer rating**
-**- Stock availability**
+  **- Book name** <br>
+  **- Book price (in sterling pounds)** <br>
+  **- Customer rating** <br>
+  **- Stock availability** <br>
 
-## **2. Business Context**
+## **2. Strategy**
+
+### 2.1 The output
 
 The output will be a csv file containing the following informations:
 
@@ -34,6 +36,35 @@ The output will be a csv file containing the following informations:
 |book_availability|Shows if the book is available in stock|
 |book_category|The category of the book|
 |scrap_time|The date and time the scrap was done|
+
+
+### 2.2 Tools
+
+The tools used in the process:
+
+**- Python 3.9** <br>
+**- Jupyter Notebook** <br>
+**- Internet browser**<br>
+
+The libraries used in the process:
+
+**- BeautifulSoup** <br>
+**- Pandas** <br>
+**- Requuests** <br>
+**- datetime** <br>
+**- Regex** <br>
+
+### 2.3 Steps
+
+**STEP 01:** Understanding the website structure using an internet browser in order to find where the needed data is allocated.
+
+**STEP 02:** Scrap the root page to get the urls of the choosen categories.
+
+**STEP 03:** With the list of urls, scrap the data of the books.
+
+**STEP 04:** Create a dataframe with all the data gathered.
+
+**STEP 05:** Export the data into a csv file and send it to the Tea O'Clock shop.
 
 
 
