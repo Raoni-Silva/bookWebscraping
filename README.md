@@ -20,7 +20,7 @@ Tea O'Clock want to have a good but small selection of books and after a market 
 In order to decide which books to have on their store I've been asked to build a dataframe including the following infos:
 
   **- Book name** <br>
-  **- Book price (in sterling pounds)** <br>
+  **- Book price (in pounds)** <br>
   **- Customer rating** <br>
   **- Stock availability** <br>
 
