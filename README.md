@@ -8,7 +8,7 @@
 
 ## **1. Business Context**
 
-The Tea O'Clock is a tea shop in London that wants to became a book club where people come to have a quiet and pleasant time.
+The Tea O'Clock is a tea shop in London that wants to become a book club where people come to have a quiet and pleasant time.
 
 Tea O'Clock want to have a good but small selection of books and after a market research they've decided to keep only books from the following category:
 
