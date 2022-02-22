@@ -71,7 +71,7 @@ The libraries used in the process:
 
 ### 2.4 Source:
 
-The data will be gathered from https://books.toscrape.com, that is a website made for webscraping training for free.
+The data was gathered from https://books.toscrape.com, a website made for webscrap training for free.
 
 ## 3. Next Steps
 
