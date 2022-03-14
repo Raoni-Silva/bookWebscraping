@@ -55,6 +55,7 @@ The libraries used in the process:
 **- Requests** <br>
 **- Datetime** <br>
 **- Regex** <br>
+**- SQLite3 <br>
 
 ### 2.3 Steps
 
@@ -67,6 +68,8 @@ The libraries used in the process:
 **STEP 04:** Create a dataframe with all the data gathered.
 
 **STEP 05:** Export the data into a csv file and send it to the Tea O'Clock shop.
+
+**STEP 06:** Store the data into a SQL database
 
 
 ### 2.4 Source:
